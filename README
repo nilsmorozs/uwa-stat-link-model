@@ -1,4 +1,4 @@
-This folder contains the code for generating and testing statistical ON-OFF link models from sea trial data. It was used to generate the results for the following paper:
+This repository contains the code for generating and testing statistical ON-OFF link models from sea trial data. It was used to generate the results for the following paper:
 
 N. Morozs, F. Campagnaro, L. Shen, B. T. Henson, F. Mahieu, Y. Zakharov and P. D. Mitchell, "Statistical ON-OFF Link Modeling Based on Sea Trial Data," in proceedings of WUWNet'24, Sibenik, Croatia, Oct 2024. 
 
